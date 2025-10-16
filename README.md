@@ -29,7 +29,7 @@ See [Setup Guide](docs/setup-guide.md) for deployment instructions.
 - [Performance Analysis](performance-metrics/)
 
 ## Data 1(json transformation and clened with aws lambda)
-![Architecture Diagram](code-samples/lambda.png)
+![Lanbda Diagram](code-samples/lambda.png)
 
 ### Data 2(raw csv files transformation and clened with aws glue script job)
 ![Diagram1 ](code-samples/job1.png)
